@@ -1,0 +1,18 @@
+# Compiled binaries
+fhp_serial
+fhp_mpi
+fhp_cuda
+
+# Output files (too large for git)
+output/*.csv
+*.mp4
+*.gif
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
