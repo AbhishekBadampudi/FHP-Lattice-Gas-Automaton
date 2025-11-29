@@ -13,9 +13,9 @@ The simulation models **flow around a circular obstacle** in a 2D channel, demon
 
 This project provides **three parallel implementations**:
 
-1.  **Serial C++** – Baseline single-threaded implementation
-2.  **MPI (Message Passing Interface)** – Distributed memory parallelization for HPC clusters
-3.  **CUDA** – GPU-accelerated version using NVIDIA GPUs
+1.  **Serial C++:**  Baseline single-threaded implementation
+2.  **MPI (Message Passing Interface):**  Distributed memory parallelization for HPC clusters
+3.  **CUDA:**  GPU-accelerated version using NVIDIA GPUs
 
 ---
 
