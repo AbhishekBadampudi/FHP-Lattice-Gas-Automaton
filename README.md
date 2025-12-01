@@ -202,7 +202,7 @@ For **Reynolds number Re ≈ 100-200** (typical for this setup):
 ## References
 
 1.  **Frisch, U., Hasslacher, B., & Pomeau, Y. (1986).** *Lattice-gas automata for the Navier-Stokes equation.* Physical Review Letters, 56(14), 1505.
-2.  **Wolf-Gladrow, D. A. (2005).** *Lattice-Gas Cellular Automata and Lattice Boltzmann Models.* Springer. [web:521]
+2.  **Wolf-Gladrow, D. A. (2005).** *Lattice-Gas Cellular Automata and Lattice Boltzmann Models.* Springer.
 3.  **Wikipedia: Lattice Gas Automaton** [web:518]
 4.  **Wolfram, S. (1986).** *Cellular automaton fluids 1: Basic theory.* Journal of Statistical Physics, 45(3-4), 471-526.
 
