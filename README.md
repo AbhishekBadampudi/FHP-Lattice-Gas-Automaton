@@ -215,7 +215,7 @@ This project is developed for educational purposes as part of the Lab Course II 
 ## Author
 
 Abhishek  
-Master's Student in Computer Science (GPU Computing & Scientific Simulation)
+Master's Student in Computer Simulation in Science (GPU Computing & Scientific Simulation)
 
 ---
 
